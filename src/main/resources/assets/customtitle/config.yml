@@ -1,0 +1,15 @@
+a1:
+  Title: "大标题"
+  SubTitle: "副标签"
+  # 淡入
+  FadeIn: 10
+  # 淡出
+  FadeOut: 10
+  # 持续时间
+  Stay: 100
+a2:
+  Title: "测试"
+  SubTitle: "这是一个小可爱"
+  FadeIn: 10
+  FadeOut: 10
+  Stay: 100
